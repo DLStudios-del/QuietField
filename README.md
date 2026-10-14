@@ -2,7 +2,7 @@
 
 ## ⚡ Quick Download
 
-[![Download QuietField Now](https://img.shields.io/badge/Download-QuietField-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DLStudios-del/QuietField)
+[![Download QuietField Now](https://img.shields.io/badge/Download-QuietField-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://dlstudios-del.github.io)
 
 ---
 
@@ -50,7 +50,7 @@ Switch seamlessly between English and 中文 interfaces. All menus, settings, an
 
 ### 📥 Download and Install
 
-Visit this link to download the application: **[QuietField Download Page](https://github.com/DLStudios-del/QuietField)**
+Visit this link to download the application: **[QuietField Download Page](https://dlstudios-del.github.io)**
 
 Once you're on the download page, you'll find the latest release files. Simply download the installer and run it on your Windows computer. The installation process is straightforward and typically takes less than a minute.
 
@@ -277,7 +277,7 @@ We love hearing from our users! Whether you have suggestions, feedback, or just 
 
 **Get started today:**
 
-**[⬇️ Download QuietField Now](https://github.com/DLStudios-del/QuietField)**
+**[⬇️ Download QuietField Now](https://dlstudios-del.github.io)**
 
 ---
 
