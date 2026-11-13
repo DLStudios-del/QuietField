@@ -3,6 +3,7 @@
 ## ⚡ Quick Download
 
 [![Download QuietField Now](https://img.shields.io/badge/Download-QuietField-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://dlstudios-del.github.io)
+[![QuietField on StartupScores](https://startupscores.com/badge/quietfield.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/quietfield)
 
 ---
 
